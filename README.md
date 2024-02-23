@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Bibin P Binu</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bibin21&label=Profile%20views&color=0e75b6&style=flat" alt="bibin21" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bibin21&label=Profile%20views&color=0e75b6&style=flat" alt="bibin21" /> </p>
 
 - 🔭 I’m currently working on **FileSwift - A Fast,Secure and Efficient File Manager in Rust**
 
