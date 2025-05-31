@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bibin P Binu</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on FileSwift - A Fast,Secure and Efficient File Manager in Rust<br>🌱 I’m currently learning Spring and Rust <br>📫 How to reach me bibin.p.binu@gmail.com
