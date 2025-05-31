@@ -8,7 +8,6 @@
 ## 🌐 Socials:
 <p  align="center">
 <a href="https://linkedin.com/in/bibin-p-binu-53b64b208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bibin-p-binu-53b64b208" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/bibin_p_binu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bibin_p_binu" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ryz3n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ryz3n" height="30" width="40" /></a>
 </p>
 
